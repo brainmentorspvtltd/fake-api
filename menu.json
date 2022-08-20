@@ -1,0 +1,5 @@
+{"menus":[{"name":"Add a Task","url":"/add", "active":"y"}
+         ,{"name":"View Task","url":"/view", "active":"y"},
+          {"name":"Search a Task","url":"/search", "active":"y"}
+         ]
+}
